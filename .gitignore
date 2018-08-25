@@ -2,3 +2,4 @@ data/
 .*pyc
 .*pyo
 .idea/
+.image_collection/
