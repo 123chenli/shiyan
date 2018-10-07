@@ -1,0 +1,7 @@
+注：在利用Matlab自带立体标定工具箱进行标定之后使用本脚本把标定参数写入特定格式的xml文件中。
+（要求 Matlab 版本为2015或以上）
+
+说明：
+
+testXml：	示例 —— 使用Matlab立体标定，调用outputParams函数输出参数到xml文件中
+outputParams：	函数 —— 将Matlab立体标定后的参数保存为xml文件

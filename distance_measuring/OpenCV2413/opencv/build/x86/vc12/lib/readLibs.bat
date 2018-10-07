@@ -1,0 +1,1 @@
+dir *d.lib /b> libs.txt
