@@ -1,1 +1,15 @@
-﻿  binocularMeasureDSMFC.vcxproj -> C:\Users\chenli\Desktop\测距程序\代码\3.测距\binocularMeasureDSMFC22\Debug\binocularMeasureDSMFC.exe
+﻿  binocularMeasureDSMFCDlg.cpp
+c:\users\chenli\desktop\shiyan\distance_measuring\directshow\include\uuids.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(408): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(448): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(449): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1050): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1044) : 忽略“i”的定义
+          c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1007) : 使用“i”的定义
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1198): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1203): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1204): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1212): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1217): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\chenli\desktop\shiyan\distance_measuring\代码\3.测距\binocularmeasuredsmfc22\binocularmeasuredsmfc\binocularmeasuredsmfcdlg.cpp(1218): warning C4129: “/”: 不可识别的字符转义序列
+  binocularMeasureDSMFC.vcxproj -> C:\Users\chenli\Desktop\shiyan\distance_measuring\代码\3.测距\binocularMeasureDSMFC22\Debug\binocularMeasureDSMFC.exe
